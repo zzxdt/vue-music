@@ -1,0 +1,1 @@
+import{Q as s,j as e,k as t,U as a,V as c,l as _}from"./index-nvWmsnf9.js";const n={},d=o=>(a("data-v-f1a19532"),o=o(),c(),o),p={class:"loading"},r=d(()=>_("div",{class:"loader"},null,-1)),i=[r];function l(o,f,u,h,m,v){return e(),t("div",p,i)}const $=s(n,[["render",l],["__scopeId","data-v-f1a19532"]]);export{$ as _};

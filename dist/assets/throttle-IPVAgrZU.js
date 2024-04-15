@@ -1,0 +1,1 @@
+import{ac as n,ad as l,ae as g,af as u}from"./index-nvWmsnf9.js";const c=n(l);var o=c,d=u,f="Expected a function";function m(a,i,e){var t=!0,r=!0;if(typeof a!="function")throw new TypeError(f);return d(e)&&(t="leading"in e?!!e.leading:t,r="trailing"in e?!!e.trailing:r),o(a,i,{leading:t,maxWait:i,trailing:r})}var s=m;const E=g(s);export{E as t};
